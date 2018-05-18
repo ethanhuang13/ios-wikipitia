@@ -53,5 +53,3 @@ DispatchQueue.global(qos: .userInteractive).async {
 
 第一行 qos 的參數請查閱 DispatchQoS.QoSClass 的文件。
 
-
-
