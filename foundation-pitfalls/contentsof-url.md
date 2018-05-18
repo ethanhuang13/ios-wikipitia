@@ -1,5 +1,5 @@
 ---
-description: '#3 一個不小心，你就把 main thread 卡在下載過程'
+description: '#2 一個不小心，你就把 main thread 卡在下載過程'
 ---
 
 # init\(contentsOf: URL\)會卡住執行緒

@@ -1,5 +1,5 @@
 ---
-description: '#2 這種閃退，Swift 編譯器要附上一些責任'
+description: '#3 這種閃退，Swift 編譯器要附上一些責任'
 ---
 
 # 避免使用驚嘆號
