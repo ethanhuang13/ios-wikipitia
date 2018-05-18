@@ -1,5 +1,5 @@
 ---
-description: 本文撰寫年代：Swift 3
+description: '#3 一個不小心，你就把 main thread 卡在下載過程'
 ---
 
 # init\(contentsOf: URL\)會卡住執行緒

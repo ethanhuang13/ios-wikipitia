@@ -1,12 +1,12 @@
 ---
-description: 本文撰寫年代：Swift 3
+description: '#2 這種閃退，Swift 編譯器要附上一些責任'
 ---
 
 # 避免使用驚嘆號
 
-### 這種閃退，Swift 編譯器要附上一些責任
+## Swift 語法中的 ! 是個大坑
 
-Swift 語法中的驚嘆號是個大坑。基本上用到`!`的地方都有可能會閃退。就像這樣：
+基本上用到`!`的地方都有可能會閃退。就像這樣：
 
 `fatal error: unexpectedly found nil while unwrapping an Optional value`
 
@@ -43,7 +43,7 @@ if url != nil {
 }
 ```
 
-### 改用 if let / guard let
+## 改用 if let / guard let
 
 但是而且這邊還是用了 url!。不是說好了不要用`!`嗎？你可以用`if let`語法：
 
