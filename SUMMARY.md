@@ -2,7 +2,7 @@
 
 * [iOS 危機百坑 / iOS Wikipitia](README.md)
 * Swift 坑
-  * [避免使用 Swift 的驚嘆號](swift-pitfalls/avoid-exclamation.md)
+  * [避免使用驚嘆號](swift-pitfalls/avoid-exclamation.md)
 * Foundation 坑
   * [init\(contentsOf: URL\)會卡住執行緒](foundation-pitfalls/contentsof-url.md)
 * 第三方軟體坑
