@@ -1,6 +1,7 @@
 # Table of contents
 
 * [iOS 危機百坑 / iOS Wikipitia](README.md)
+* [更新日誌](changelog.md)
 * Swift 坑
   * [避免使用 Swift 的驚嘆號](swift-pitfalls/avoid-exclamation.md)
 * Foundation 坑
