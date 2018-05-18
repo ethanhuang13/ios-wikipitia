@@ -7,7 +7,7 @@ description: 我就不能偷懶一下嗎？
 ## 2018-05-19
 
 * 移動至新版的 GitBook
-* 改名為 **iOS 危機百坑 / iOS Wikipitia**
+* 改名為 **iOS 開發危機百坑 / iOS Dev Wikipitia**
 * 設置專屬網址：[https://ios-wikipitia.13h.tw](https://ios-wikipitia.13h.tw)
 * 新增 [你在用的 SDK 值得信任嗎？](third-party-pitfalls/trusting-sdks.md) \#4
 * 新增 [下載 Xcode 的正確姿勢](xcode-pitfalls/xia-xcode-de-zheng-zi.md) \#5
