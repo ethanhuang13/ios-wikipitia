@@ -8,7 +8,7 @@
 
 對於有心人士來說，攻擊單一的使用者很難，相對地，集中火力攻破開發者效益就高。
 
-Felix Krause 的 [這篇文章](https://krausefx.com/blog/trusting-sdks) 就詳細闡述你在安裝 SDK 時可能遭受的攻擊、程式碼的修改等等。
+[Felix Krause](https://krausefx.com/about) 的 [這篇文章](https://krausefx.com/blog/trusting-sdks) 就詳細闡述你在安裝 SDK 時可能遭受的攻擊、程式碼的修改等等。
 
 講個很壞的情境：如果你去參加一場 conference，用了那邊的 Wi-Fi，下載的程式時走 HTTP 連線沒加密，結果被惡意的 router 替換掉。你剛好安裝到自己的 app 裡，然後上架，給成千上萬的使用者使用。
 
