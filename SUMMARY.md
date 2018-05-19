@@ -6,11 +6,11 @@
 * Foundation 坑
   * [init\(contentsOf: URL\)會卡住執行緒](foundation-pitfalls/contentsof-url.md)
 * Xcode 坑
-  * [下載 Xcode 的正確姿勢](xcode-pitfalls/xia-xcode-de-zheng-zi.md)
+  * [下載 Xcode 的正確姿勢](xcode-pitfalls/download-xcode.md)
 * 第三方軟體坑
   * [你在用的 SDK 值得信任嗎？](third-party-pitfalls/trusting-sdks.md)
 * Git 坑
-  * [Git 不能保證專案在每台電腦上的狀態完全一樣](git-pitfalls/git-bu-neng-bao-an-zai-mei-tai-shang-de-wan-quan-yi.md)
+  * [Git 不能保證專案在每台電腦上的狀態完全一樣](git-pitfalls/git-cannot-promise.md)
 * 習慣問題
   * [熬夜寫程式](bad-habits/late-night.md)
 * [更新日誌](changelog.md)
