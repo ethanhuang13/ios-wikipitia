@@ -6,11 +6,9 @@ description: '#7 File a radar!'
 
 遇到 Apple SDK 或是 App Store 的相關問題或建議，怎麼回報給官方呢？可以透過 Apple 官方的 bug reporting system，叫做 Radar。
 
-### Radar
+### 發 Radar
 
-#### 發 Radar
-
-只要你有 Apple Developer 帳號（除非涉及公司機密，我建議用個人的帳號），就可以登入 [Radar](https://bugreport.apple.com) 來新增 bug 給官方。這個動作叫做 file a radar。如果有機會去 WWDC 與 Apple 工程師面對面問問題，很有機會會被對方問說有沒有開過 radar、編號多少，或請你開個新的出來。
+只要你有 Apple Developer 帳號（除非涉及公司機密，我建議用個人的帳號），就可以登入 [Radar](https://bugreport.apple.com) 來新增 bug 給官方。這個動作叫做 **file a radar**。如果有機會去 WWDC 與 Apple 工程師面對面問問題，很有機會會被對方問說有沒有開過 radar、編號多少，或請你開個新的出來。
 
 開 Radar 實在很簡單，就是選好問題領域、把重現步驟描述出來，必要時加上系統 log、sample project、截圖、或影片。
 
@@ -20,7 +18,7 @@ description: '#7 File a radar!'
 
 ![](.gitbook/assets/ying-mu-kuai-zhao-20180607-shang-wu-11.40.59.png)
 
-#### 獲得回覆
+### 獲得回覆
 
 絕大多數的 radar，Apple 的工程師都不會親自回覆。畢竟 Apple 是一個很大的公司，不見得有資源去處理你的問題，所以那些 radar 就保持著 Open 的狀態。更有可能的是你的問題已經有人報過了，所以就簡單地被標記成 duped，就沒有下文。換言之，大部分開發者對 radar 的感覺都是像黑洞一樣有去無回。
 
