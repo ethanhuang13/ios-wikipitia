@@ -4,6 +4,10 @@ description: 我就不能偷懶一下嗎？
 
 # 更新日誌
 
+## 2018-06-07
+
+* 新增 [如何報 bug 給 Apple](file-a-radar.md) \#7
+
 ## 2018-05-19
 
 * 移動至新版的 GitBook
